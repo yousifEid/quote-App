@@ -1,0 +1,28 @@
+.text-size-h{
+    font-size: 80px;
+    font-family: Impact;
+}
+.container-div {
+  text-align: center;
+  margin-top: 80px;
+}
+
+button {
+    width: 200px;
+    height: 80px;
+    background-color:#778899;
+    color:#100c08;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color:#100c08;
+    color:#eff3f7;
+}
+
+.content-size{
+    font-size:40px;
+}
+b{
+    color: red;
+}
